@@ -48,5 +48,8 @@
     <ClCompile Include="영상 워핑.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="사용자가 지정하는 값으로 평행이동, 크기변환, 회전하는 프로그램.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
